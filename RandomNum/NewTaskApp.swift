@@ -1,7 +1,7 @@
 //  /*
 //
-//  Project: NewTask
-//  File: NewTaskApp.swift
+//  Project: RandomNum
+//  File: RandomNumApp.swift
 //  Created by: Elaidzha Shchukin
 //  Date: 11.03.2024
 //
@@ -10,7 +10,7 @@
 import SwiftUI
 
 @main
-struct New_TaskApp: App {
+struct RandomNumApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

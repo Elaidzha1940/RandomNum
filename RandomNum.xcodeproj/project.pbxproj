@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E45DC49F2B9F2ADD007EF910 /* NewTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E45DC49F2B9F2ADD007EF910 /* RandomNum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RandomNum.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E45DC4A22B9F2ADD007EF910 /* NewTaskApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTaskApp.swift; sourceTree = "<group>"; };
 		E45DC4A42B9F2ADD007EF910 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E45DC4A62B9F2ADE007EF910 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -39,7 +39,7 @@
 		E45DC4962B9F2ADD007EF910 = {
 			isa = PBXGroup;
 			children = (
-				E45DC4A12B9F2ADD007EF910 /* NewTask */,
+				E45DC4A12B9F2ADD007EF910 /* RandomNum */,
 				E45DC4A02B9F2ADD007EF910 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -47,12 +47,12 @@
 		E45DC4A02B9F2ADD007EF910 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E45DC49F2B9F2ADD007EF910 /* NewTask.app */,
+				E45DC49F2B9F2ADD007EF910 /* RandomNum.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E45DC4A12B9F2ADD007EF910 /* NewTask */ = {
+		E45DC4A12B9F2ADD007EF910 /* RandomNum */ = {
 			isa = PBXGroup;
 			children = (
 				E45DC4A22B9F2ADD007EF910 /* NewTaskApp.swift */,
@@ -60,7 +60,7 @@
 				E45DC4A62B9F2ADE007EF910 /* Assets.xcassets */,
 				E45DC4A82B9F2ADE007EF910 /* Preview Content */,
 			);
-			path = NewTask;
+			path = RandomNum;
 			sourceTree = "<group>";
 		};
 		E45DC4A82B9F2ADE007EF910 /* Preview Content */ = {
@@ -84,9 +84,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E45DC49E2B9F2ADD007EF910 /* NewTask */ = {
+		E45DC49E2B9F2ADD007EF910 /* RandomNum */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E45DC4AD2B9F2ADE007EF910 /* Build configuration list for PBXNativeTarget "NewTask" */;
+			buildConfigurationList = E45DC4AD2B9F2ADE007EF910 /* Build configuration list for PBXNativeTarget "RandomNum" */;
 			buildPhases = (
 				E45DC49B2B9F2ADD007EF910 /* Sources */,
 				E45DC49C2B9F2ADD007EF910 /* Frameworks */,
@@ -96,9 +96,9 @@
 			);
 			dependencies = (
 			);
-			name = NewTask;
+			name = RandomNum;
 			productName = "New-Task";
-			productReference = E45DC49F2B9F2ADD007EF910 /* NewTask.app */;
+			productReference = E45DC49F2B9F2ADD007EF910 /* RandomNum.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -116,7 +116,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E45DC49A2B9F2ADD007EF910 /* Build configuration list for PBXProject "NewTask" */;
+			buildConfigurationList = E45DC49A2B9F2ADD007EF910 /* Build configuration list for PBXProject "RandomNum" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -129,7 +129,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E45DC49E2B9F2ADD007EF910 /* NewTask */,
+				E45DC49E2B9F2ADD007EF910 /* RandomNum */,
 			);
 		};
 /* End PBXProject section */
@@ -287,7 +287,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"NewTask/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"RandomNum/Preview Content\"";
 				DEVELOPMENT_TEAM = 748RM22H5Z;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -316,7 +316,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"NewTask/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"RandomNum/Preview Content\"";
 				DEVELOPMENT_TEAM = 748RM22H5Z;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -341,7 +341,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E45DC49A2B9F2ADD007EF910 /* Build configuration list for PBXProject "NewTask" */ = {
+		E45DC49A2B9F2ADD007EF910 /* Build configuration list for PBXProject "RandomNum" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E45DC4AB2B9F2ADE007EF910 /* Debug */,
@@ -350,7 +350,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E45DC4AD2B9F2ADE007EF910 /* Build configuration list for PBXNativeTarget "NewTask" */ = {
+		E45DC4AD2B9F2ADE007EF910 /* Build configuration list for PBXNativeTarget "RandomNum" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E45DC4AE2B9F2ADE007EF910 /* Debug */,

@@ -1,6 +1,6 @@
 //  /*
 //
-//  Project: NewTask
+//  Project: RandomNum
 //  File: ContentView.swift
 //  Created by: Elaidzha Shchukin
 //  Date: 11.03.2024
